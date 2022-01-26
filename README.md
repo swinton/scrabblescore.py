@@ -7,3 +7,9 @@
 import scrabblescore
 scrabblescore.scrabblescore('oxyphenbutazone')  # 41
 ```
+
+## Run the tests
+
+```shell
+python -m unittest
+```
